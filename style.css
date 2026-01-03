@@ -1,0 +1,72 @@
+body {
+    text-align: center;
+    background-image: url(BG.jpg);
+}
+
+h1 {
+    color: darkblue;
+    font-family: cursive;
+}
+
+#container {
+    height:80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#gameboard{
+    height:70vmin;
+    width:70vmin;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    justify-content: center;
+    align-content: center;
+    gap:10px;
+}
+
+.box{
+    height:18vmin;
+    width:18vmin;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color:brown;
+    background-color: lightyellow;
+}
+
+#reset{
+    font-family: fantasy;
+    font-size: x-large;
+    font-style: italic;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+}
+
+.X{
+    color: brown
+}
+
+.O{
+    color: teal
+}
+
+#humanMode, #computerMode {
+    margin: 10px; 
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;   
+    border: none;
+    box-shadow: 2px 2px 5px grey;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
+
+#humanMode:hover, #computerMode:hover {
+    opacity: 0.5;
+}
