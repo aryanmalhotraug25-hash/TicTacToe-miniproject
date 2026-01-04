@@ -33,4 +33,4 @@ tictactoe/
 
 ---
 
-Project Link : https://app.netlify.com/projects/tictactoe-miniproject/
+Project Link : https://tictactoe-miniproject.netlify.app/
