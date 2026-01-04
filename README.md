@@ -24,7 +24,7 @@ This project demonstrates core web development concepts such as DOM manipulation
 
 ---
 
-## Structure 
+## Project Structure 
 tictactoe/
 │── index.html    # Game board + mode selection
 │── style.css     # Styling
@@ -34,6 +34,3 @@ tictactoe/
 ---
 
 Project Link : https://app.netlify.com/projects/tictactoe-miniproject/
-
-
-## 📂 Project Structure
