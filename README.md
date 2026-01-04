@@ -31,5 +31,9 @@ tictactoe/
 │── script.js     # Core logic (Human vs Human & Human vs Computer)
 │── README.md     # Documentation
 
+---
+
+Project Link : https://app.netlify.com/projects/tictactoe-miniproject/
+
 
 ## 📂 Project Structure
